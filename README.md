@@ -1,5 +1,3 @@
-# jhuHtmlCssJsMod4
-
 # Readme 
 
 Johns Hopkins Coursera
@@ -8,7 +6,7 @@ HTML, CSS and Javascript for Web developers
 
 Instructor : Yaakov Chaikin
 
-Lessons brief: Include functionality to a website for fun. In this module, we concentrate on learning the fundamentals of the Javascript language. Be empowered by the Javascript language features, not confused by them. Just about everything is covered - from common language constructs and Javascript types to objects, functions, arrays, closures, and scope isolation.
+Lessons brief: Include functionality to a website for fun. In this module, the fundamentals of the Javascript language are taught. One is  empowered by the Javascript language features, not confused by them. Just about everything is covered - from common language constructs and Javascript types to objects, functions, arrays, closures, and scope isolation.
 
 Number of lessons: 12
 Number of practice quiz: 9
